@@ -1,0 +1,16 @@
+.popover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  display: none;
+  z-index: 1000;
+}
+.popover-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
